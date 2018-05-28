@@ -1,0 +1,20 @@
+﻿<Window x:Class="ClientSide.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ClientSide"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="356.331" Width="525">
+    <Grid>
+        <Button x:Name="sendButton" Content="Send" HorizontalAlignment="Left" Margin="422,289,0,0" VerticalAlignment="Top" Width="75" Click="SendMessage"/>
+        <TextBox x:Name="messageBox" HorizontalAlignment="Left" Height="23" Margin="10,289,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="407"/>
+        <RichTextBox x:Name="richBox" HorizontalAlignment="Left" Height="217" Margin="10,67,0,0" VerticalAlignment="Top" Width="487">
+            <FlowDocument/>
+        </RichTextBox>
+        <Button x:Name="connectButton" Content="Connect to Chat" HorizontalAlignment="Left" Margin="311,18,0,0" VerticalAlignment="Top" Width="110" Click="ConnectToChat"/>
+        <TextBox x:Name="username" HorizontalAlignment="Left" Height="23" Margin="121,15,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="169" TextChanged="username_TextChanged"/>
+        <TextBlock HorizontalAlignment="Left" Margin="60,18,0,0" TextWrapping="Wrap" Text="UserName" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>

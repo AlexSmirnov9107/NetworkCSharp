@@ -1,0 +1,16 @@
+D:\Visual Studio 2017\Projects\C#\NetWork\ClientSide\ClientSide\bin\Debug\ClientSide.exe.config
+D:\Visual Studio 2017\Projects\C#\NetWork\ClientSide\ClientSide\bin\Debug\ClientSide.exe
+D:\Visual Studio 2017\Projects\C#\NetWork\ClientSide\ClientSide\bin\Debug\ClientSide.pdb
+D:\Visual Studio 2017\Projects\C#\NetWork\ClientSide\ClientSide\bin\Debug\Newtonsoft.Json.dll
+D:\Visual Studio 2017\Projects\C#\NetWork\ClientSide\ClientSide\bin\Debug\Newtonsoft.Json.xml
+D:\Visual Studio 2017\Projects\C#\NetWork\ClientSide\ClientSide\obj\Debug\ClientSide.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2017\Projects\C#\NetWork\ClientSide\ClientSide\obj\Debug\MainWindow.g.cs
+D:\Visual Studio 2017\Projects\C#\NetWork\ClientSide\ClientSide\obj\Debug\App.g.cs
+D:\Visual Studio 2017\Projects\C#\NetWork\ClientSide\ClientSide\obj\Debug\ClientSide_MarkupCompile.cache
+D:\Visual Studio 2017\Projects\C#\NetWork\ClientSide\ClientSide\obj\Debug\ClientSide_MarkupCompile.lref
+D:\Visual Studio 2017\Projects\C#\NetWork\ClientSide\ClientSide\obj\Debug\MainWindow.baml
+D:\Visual Studio 2017\Projects\C#\NetWork\ClientSide\ClientSide\obj\Debug\ClientSide.g.resources
+D:\Visual Studio 2017\Projects\C#\NetWork\ClientSide\ClientSide\obj\Debug\ClientSide.Properties.Resources.resources
+D:\Visual Studio 2017\Projects\C#\NetWork\ClientSide\ClientSide\obj\Debug\ClientSide.csproj.GenerateResource.Cache
+D:\Visual Studio 2017\Projects\C#\NetWork\ClientSide\ClientSide\obj\Debug\ClientSide.exe
+D:\Visual Studio 2017\Projects\C#\NetWork\ClientSide\ClientSide\obj\Debug\ClientSide.pdb

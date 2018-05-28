@@ -1,0 +1,8 @@
+D:\Visual Studio 2017\Projects\C#\NetWork\ServerSide\ServerSide\bin\Debug\ServerSide.exe.config
+D:\Visual Studio 2017\Projects\C#\NetWork\ServerSide\ServerSide\bin\Debug\ServerSide.exe
+D:\Visual Studio 2017\Projects\C#\NetWork\ServerSide\ServerSide\bin\Debug\ServerSide.pdb
+D:\Visual Studio 2017\Projects\C#\NetWork\ServerSide\ServerSide\bin\Debug\Newtonsoft.Json.dll
+D:\Visual Studio 2017\Projects\C#\NetWork\ServerSide\ServerSide\bin\Debug\Newtonsoft.Json.xml
+D:\Visual Studio 2017\Projects\C#\NetWork\ServerSide\ServerSide\obj\Debug\ServerSide.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2017\Projects\C#\NetWork\ServerSide\ServerSide\obj\Debug\ServerSide.exe
+D:\Visual Studio 2017\Projects\C#\NetWork\ServerSide\ServerSide\obj\Debug\ServerSide.pdb
